@@ -1,0 +1,13 @@
+{
+ "name": "express-mvc",
+ "version": "0.0.1",
+ "private": true,
+ "dependencies": {
+  "express": "~4.13.4",
+  "body-parser": "~1.14.2",
+  "express-session": "~1.13.0",
+  "jade": "~1.11.0",
+  "method-override": "~2.3.5",
+  "morgan": "~1.6.1"
+ }
+}
